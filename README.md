@@ -6,7 +6,7 @@ table. And also you can delete the contact you add.
 
 In order to run this server, you need to install mongoDB, npm and node.js.
 
-link for installing mongoDB:
+Link for installing mongoDB:
 
 ```
 https://docs.mongodb.com/manual/installation/
@@ -18,7 +18,7 @@ Command for installing npm:
 sudo npm install npm -g
 ```
 
-link for installing node:
+Link for installing node:
 
 ```
 https://nodejs.org/en/download/
@@ -38,7 +38,7 @@ cd angular_app
 npm install
 ```
 
-before you run the server, you need to run this command to create an optimized build of your app in the build folder.
+Before you run the server, you need to run this command to create an optimized build of your app in the build folder.
 
 ```
 npm run build
