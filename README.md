@@ -24,14 +24,26 @@ link for installing node:
 https://nodejs.org/en/download/
 ```
 
-Clone this project,
-then
+Command for Clone this project:
+
+```
+git clone https://github.com/yangh1/react_app.git
+```
+
+then install node modules
+
 ```
 cd angular_app
 
 npm install
+```
 
+run this command to create an optimized build of your app in the build folder
+```
 npm run build
+```
 
+Command for running the server
+```
 npm start
 ```
