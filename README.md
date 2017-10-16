@@ -24,13 +24,13 @@ link for installing node:
 https://nodejs.org/en/download/
 ```
 
-Command for Clone this project:
+After you finish installing node, npm and mongoDB, you could clone this project by using following command:
 
 ```
 git clone https://github.com/yangh1/react_app.git
 ```
 
-then install node modules
+Then you need to install node modules for this app.
 
 ```
 cd angular_app
@@ -38,7 +38,8 @@ cd angular_app
 npm install
 ```
 
-run this command to create an optimized build of your app in the build folder
+before you run the server, you need to run this command to create an optimized build of your app in the build folder.
+
 ```
 npm run build
 ```
